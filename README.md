@@ -27,7 +27,7 @@ AI-powered resume analyser built with React, Node.js and OpenAI. Scores your res
 
 ## 📈 GitHub Stats
 
-![Dip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dip-Rai-1&show_icons=true&theme=tokyonight&hide_border=true)
+![Dip's GitHub Stats](![Dip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dip-Rai-1&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800))
 
 ---
 
