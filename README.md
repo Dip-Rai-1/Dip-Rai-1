@@ -32,3 +32,5 @@ AI-powered resume analyser built with React, Node.js and OpenAI. Scores your res
 - 💼 Open to full stack or frontend junior roles
 - 📍 Available for remote or on-site positions
 - 📧 Reach me via [GitHub](https://github.com/Dip-Rai-1)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/diprai/ )
+- 📧 dipurai815@gmail.com
